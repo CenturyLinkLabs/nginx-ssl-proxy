@@ -1,4 +1,4 @@
-from nginx
+FROM nginx
 
 WORKDIR /usr/src
 
